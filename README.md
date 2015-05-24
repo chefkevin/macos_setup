@@ -1,5 +1,7 @@
 # macos_setup
 
-- Hommebrew + packages
-- Caskroom + applications
-- Custom settings
+Main script contains:
+
+- Homebrew install + some packages ;
+- Caskroom install + some applications ;
+- Custom settings.
