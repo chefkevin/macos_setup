@@ -37,6 +37,7 @@ brew install homebrew/dupes/grep
   # hub
   git
   htop
+  watch
 )
 
 echo "installing binaries..."
